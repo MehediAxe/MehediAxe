@@ -7,7 +7,7 @@ Fixed Income Support Engineer
 * 🌍  I'm based in London
 * 🖥️  See my personal website at [mehedisardar.com](http://mehedisardar.com)
 * ✉️  You can contact me at [mehedi.sardar@tradingtechnologies.com](mailto:mehedi.sardar@tradingtechnologies.com)
-* 🧠  Currently I'm learning Kubernetes and automating workflows through Ansible scripts
+* 🧠  Currently I'm learning Kubernetes / Terraform and automating workflows through bash scripts
 * 🤝  I'm open to collaborating on maintaining AxeTrader server on Kubernetes
 
 ### Skills
